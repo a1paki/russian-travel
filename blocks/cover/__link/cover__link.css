@@ -11,7 +11,7 @@
   text-decoration: none;
 }
 
-.cover__link::before {
+.cover__link:before {
   content: '';
   width: 100%;
   height: 100%;

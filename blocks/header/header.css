@@ -5,19 +5,20 @@
   align-items: flex-end;
   max-width: calc(100% - 48px*2);
 }
-@media screen and (max-width: 1280px) {
-  .header {
+
+@media screen and (max-width: 1200px) {
+.header {
     margin-bottom: 48px;
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1000px) {
   .header {
     max-width: calc(100% - 24px*2);
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 700px) {
   .header {
     max-width: calc(100% - 16px*2);
     margin-top: 16px;
