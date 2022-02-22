@@ -15,6 +15,7 @@
 @media screen and (max-width: 1000px) {
   .header {
     max-width: calc(100% - 24px*2);
+    align-items: center;
   }
 }
 
@@ -22,5 +23,6 @@
   .header {
     max-width: calc(100% - 16px*2);
     margin-top: 16px;
+    align-items: center;
   }
 }
