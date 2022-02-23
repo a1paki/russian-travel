@@ -7,6 +7,7 @@
   padding: 0 0;
   list-style-type: none;
 }
+
 @media screen and (max-width: 1190px) {
   .photo-grid__gallery {
     grid-template-columns: repeat(3, 1fr);
